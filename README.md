@@ -5,7 +5,7 @@
 ### Data
 #### .wav file
 
-## Process of loading data using Dataset and Dataloader with LibriSpeech dataset
+## Process of loading data using Dataset and Dataloader
 
 ### Data
 #### [LibriSpeech](http://www.openslr.org/12/)
